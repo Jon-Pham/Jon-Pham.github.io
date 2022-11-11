@@ -38,3 +38,10 @@ html_theme_options = {
         ],
   "search_bar_text": "Search this site...",
 }
+
+# -- Sidebar Options for HTML output -------------------------------------------------
+html_sidebars = {'index': ['sidebar.html'],
+                 'about': ['sidebar.html'],
+                 'publications': ['sidebar.html'],
+                 'projects/**': ['sidebar.html', "sidebar-nav-bs.html"],
+}
