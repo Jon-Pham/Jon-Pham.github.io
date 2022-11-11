@@ -7,5 +7,6 @@ Welcome to my website
 :hidden:
 about
 projects
+blog
 Scientific Experience
 ```
