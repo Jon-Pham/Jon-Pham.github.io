@@ -28,21 +28,11 @@ html_static_path = ['_static']
 
 
 html_theme_options = {
-  "github_url": "https://github.com/vferat/",
+  "github_url": "https://github.com/Jon-Pham",
   "icon_links": [
         {
-            "name": "Twitter",
-            "url": "https://twitter.com/ferat_victor",
-            "icon": "fa-brands fa-twitter",
-        },
-        {
-            "name": "ORCID",
-            "url": "https://orcid.org/0000-0003-1952-7657",
-            "icon": "fa-brands fa-orcid",
-        },
-        {
             "name": "LinkedIn",
-            "url": "https://www.linkedin.com/in/victor-ferat/",
+            "url": "https://www.linkedin.com/in/jonathan-pham-9a553b22a/",
             "icon": "fa-brands fa-linkedin",
         },        
         ],
