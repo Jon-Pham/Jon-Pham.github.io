@@ -8,5 +8,4 @@ Welcome to my website
 about
 projects
 Scientific Experience
-blog
 ```
