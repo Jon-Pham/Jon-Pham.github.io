@@ -43,5 +43,13 @@ html_theme_options = {
 html_sidebars = {'index': ['sidebar.html'],
                  'about': ['sidebar.html'],
                  'publications': ['sidebar.html'],
-                 'projects/**': ['sidebar.html', "sidebar-nav-bs.html"],
+                 'blog': ['tagcloud.html', 'archives.html'],
 }
+
+
+# -- Blog -------------------------------------------------
+extensions += ['ablog']
+blog_title = "Mon Blog"
+blog_path = "blog"
+fontawesome_included = True
+blog_post_pattern = "posts/*/*"
